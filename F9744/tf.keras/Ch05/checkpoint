@@ -1,0 +1,2 @@
+model_checkpoint_path: "Ch5_5_1Model.weight"
+all_model_checkpoint_paths: "Ch5_5_1Model.weight"
