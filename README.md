@@ -1,2 +1,5 @@
 # tf.keras_python
-TensorFlow與Keras - Python深度學習應用實務
+- **課程名稱 :** Python AI應用實務班
+- **授課老師 :** 國立台北商業大學 資訊與決策科學研究所 廖文華 教授
+- **訓練日期 :** 2020.10.17 ~ 2020.11.28
+- **參考書本 :** TensorFlow與Keras - Python深度學習應用實務
